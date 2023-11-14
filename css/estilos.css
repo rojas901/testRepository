@@ -23,3 +23,12 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    margin: -1.05em;
+    margin-top: 1em;
+    text-align: center;
+    background-color: deepskyblue;
+    color: black;
+    padding: 0.4em;
+}
