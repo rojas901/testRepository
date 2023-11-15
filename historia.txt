@@ -9,3 +9,5 @@ quizas en algun futuro lejano
 y la historia sera reescrita por colaboradores en el futuro
 
 quizas cometan algun error y deban usar un reset
+
+o quizas refactoricen todo el codigo para que se vea mas organizado
